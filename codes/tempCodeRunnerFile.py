@@ -1,0 +1,1 @@
+np.exp(2 * log_f)

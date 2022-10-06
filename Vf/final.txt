@@ -1,0 +1,40 @@
+3.6154721002857677 2.464980305462776 0.0048474498877686956
+Slope (ML, median, upper error, lower error): 3.615; 3.602; +0.09616, -0.09531
+Intercept (ML, median, upper error, lower error): 2.465; 2.495; +0.2007; -0.2022
+Intrinsic scatter (ML, median, upper error, lower error): 0.004847; 0.0441; +0.03759; -0.03013
+***
+2.776245364082181 4.334899644797698 0.19290707779192878
+Slope (ML, median, upper error, lower error): 2.776; 2.776; +0.07594, -0.07502
+Intercept (ML, median, upper error, lower error): 4.335; 4.334; +0.1498; -0.1544
+Intrinsic scatter (ML, median, upper error, lower error): 0.1929; 0.1963; +0.02524; -0.02337
+***
+3.543525815812035 2.627384628132172 0.05753024567068407
+Slope (ML, median, upper error, lower error): 3.544; 3.593; +0.09511, -0.09153
+Intercept (ML, median, upper error, lower error): 2.627; 2.512; +0.1946; -0.1979
+Intrinsic scatter (ML, median, upper error, lower error): 0.05753; 0.03641; +0.03608; -0.02554
+***
+2.7704917945157157 4.344887847447439 0.1920640047346169
+Slope (ML, median, upper error, lower error): 2.77; 2.773; +0.07528, -0.07553
+Intercept (ML, median, upper error, lower error): 4.345; 4.341; +0.1511; -0.1531
+Intrinsic scatter (ML, median, upper error, lower error): 0.1921; 0.1969; +0.02498; -0.02369
+***
+2.884885696438526 3.9778801708974254 0.1547252911532351
+Slope (ML, median, upper error, lower error): 2.885; 2.868; +0.07051, -0.0692
+Intercept (ML, median, upper error, lower error): 3.978; 4.098; +0.1416; -0.1428
+Intrinsic scatter (ML, median, upper error, lower error): 0.1547; 0.1431; +0.0239; -0.02319
+***
+3.2810770397379385 3.1004475601017907 0.10228273643063991
+Slope (ML, median, upper error, lower error): 3.281; 3.291; +0.07466, -0.07853
+Intercept (ML, median, upper error, lower error): 3.1; 3.08; +0.1631; -0.1553
+Intrinsic scatter (ML, median, upper error, lower error): 0.1023; 0.1022; +0.0318; -0.03729
+***
+3.527110728391255 1.3786869120462315 0.07183161912991479
+Slope (ML, median, upper error, lower error): 3.527; 3.525; +0.07903, -0.07901
+Intercept (ML, median, upper error, lower error): 1.379; 1.38; +0.193; -0.1937
+Intrinsic scatter (ML, median, upper error, lower error): 0.07183; 0.09228; +0.02616; -0.02838
+***
+3.4860193093190137 1.581609172211498 0.07731365853194001
+Slope (ML, median, upper error, lower error): 3.486; 3.348; +0.09536, -0.09131
+Intercept (ML, median, upper error, lower error): 1.582; 1.899; +0.2266; -0.2308
+Intrinsic scatter (ML, median, upper error, lower error): 0.07731; 0.1039; +0.02883; -0.02848
+***
