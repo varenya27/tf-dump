@@ -1,0 +1,70 @@
+
+Vout_st at time 19:57:14
+slope = 3.771 0.4747 -0.4748
+intercept = 1.732 1.0463 -1.049
+intrinsic scatter = 0.017 0.0074 -0.012
+
+Vout_st at time 19:59:57
+slope = 3.764 0.4699 -0.4795
+intercept = 1.747 1.053 -1.0384
+intrinsic scatter = 0.017 0.0072 -0.0123
+
+Vout_st at time 20:01:05
+slope = 3.771 0.4744 -0.474
+intercept = 1.732 1.0448 -1.0461
+intrinsic scatter = 0.017 0.0072 -0.0122
+
+Vout_st at time 20:03:09
+slope = 3.774 0.4736 -0.4734
+intercept = 1.726 1.0462 -1.0467
+intrinsic scatter = 0.017 0.0073 -0.0122
+
+Vout_st at time 20:07:28
+slope = 3.771 0.4714 -0.4747
+intercept = 1.731 1.0476 -1.0392
+intrinsic scatter = 0.017 0.0073 -0.0121
+
+Vout_st at time 20:08:29
+slope = 3.775 0.4799 -0.474
+intercept = 1.728 1.0508 -1.0506
+intrinsic scatter = 0.017 0.0075 -0.0122
+
+Vout at time 20:12:38
+slope = 2.926 0.0999 -0.2572
+intercept = 4.732 0.5543 -0.2057
+intrinsic scatter = 0.028 0.0151 -0.0227
+
+Vout at time 20:13:52
+slope = 2.927 0.0991 -0.2455
+intercept = 4.732 0.5293 -0.2024
+intrinsic scatter = 0.028 0.0149 -0.0234
+
+Vout at time 20:14:51
+slope = 2.927 0.1006 -0.2509
+intercept = 4.732 0.5453 -0.2039
+intrinsic scatter = 0.028 0.0153 -0.0232
+
+Vout at time 12:56:38
+slope = 2.767 0.0882 -0.255
+intercept = 4.777 0.5356 -0.172
+intrinsic scatter = 0.528 0.0888 -0.0045
+
+Vout at time 13:09:56
+slope = 2.173 0.0569 -0.0602
+intercept = 0.041 0.0302 -0.0667
+intrinsic scatter = 0.98 0.0331 -0.0153
+
+Vout at time 13:11:01
+slope = 2.928 0.1006 -0.265
+intercept = 4.728 0.5759 -0.2077
+intrinsic scatter = 0.028 0.0146 -0.023
+
+Vout at time 18:15:25
+slope = 2.864 0.1364 -0.2392
+intercept = 4.658 0.5202 -0.2567
+intrinsic scatter = 0.511 0.3439 -0.3296
+
+Vout_st at time 21:58:40
+slope = 2.519 0.1685 -0.3256
+intercept = 4.515 0.6991 -0.3557
+intrinsic scatter = 0.505 0.3425 -0.3432

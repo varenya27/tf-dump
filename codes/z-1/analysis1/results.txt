@@ -1,0 +1,74 @@
+Our code: 
+
+Vout at time 15:11:28
+slope = 2.926 0.0978 -0.2452
+intercept = 4.734 0.5253 -0.2019
+intrinsic scatter = 0.028 0.0149 -0.0237
+
+Vout_normalized at time 15:12:37
+slope = 2.906 0.1047 -0.2542
+intercept = 4.774 0.4639 -0.1731
+intrinsic scatter = 0.027 0.0144 -0.0235
+
+Vout_st at time 15:13:34
+slope = 3.863 0.5162 -0.6113
+intercept = 1.526 1.3366 -1.1444
+intrinsic scatter = 0.017 0.0072 -0.0121
+
+Vout_st_normalized at time 15:14:39
+slope = 3.867 0.5244 -0.6058
+intercept = 1.842 1.132 -0.9764
+intrinsic scatter = 0.017 0.0074 -0.0122
+
+Lelli's code:
+
+Vout at time 15:53:15
+slope = 0.512 0.0209 -0.0335
+intercept = 9.958 0.0765 -0.0318
+intrinsic scatter = 0.052 0.0312 -0.0359
+
+Vout_normalized at time 15:54:14
+slope = 0.094 0.0423 -0.0737
+intercept = 9.902 0.1362 -0.0737
+intrinsic scatter = 0.046 0.0272 -0.0339
+
+Vout_st at time 15:55:06
+slope = 0.905 0.1293 -0.1265
+intercept = 8.045 0.2809 -0.2841
+intrinsic scatter = 0.251 0.0208 -0.0209
+
+Vout_st_normalized at time 15:55:26
+slope = 0.905 0.1257 -0.128
+intercept = 7.357 0.2377 -0.2356
+intrinsic scatter = 0.251 0.0205 -0.0212
+
+Vout at time 15:57:12
+slope = 0.513 0.0216 -0.0355
+intercept = 9.955 0.076 -0.0342
+intrinsic scatter = 0.053 0.032 -0.0368
+
+Vout_normalized at time 15:59:27
+slope = 0.095 0.0419 -0.0708
+intercept = 9.899 0.1298 -0.0737
+intrinsic scatter = 0.046 0.0267 -0.032
+---
+
+Vout at time 19:40:56
+slope = 0.512 0.0215 -0.0338
+intercept = 9.957 0.0729 -0.033
+intrinsic scatter = 0.054 0.0323 -0.0354
+
+Vout_normalized at time 19:41:55
+slope = 0.096 0.0428 -0.0753
+intercept = 9.899 0.1369 -0.0754
+intrinsic scatter = 0.046 0.0273 -0.0329
+
+Vout_st at time 19:42:28
+slope = 0.907 0.1336 -0.1323
+intercept = 8.04 0.2925 -0.2923
+intrinsic scatter = 0.251 0.0211 -0.0218
+
+Vout_st_normalized at time 19:42:56
+slope = 0.905 0.1289 -0.1305
+intercept = 7.358 0.2427 -0.2407
+intrinsic scatter = 0.251 0.0205 -0.0214
