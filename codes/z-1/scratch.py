@@ -1,7 +1,6 @@
 import emcee
 import numpy as np
-from scipy.odr import Model, RealData, ODR
-import matplotlib as mpl
+#from scipy.odr import Model, RealData, ODR
 from matplotlib import pyplot as plt# import pyplot from matplotlib
 import time               # use for timing functions
 import corner
@@ -94,10 +93,13 @@ ndims = 3
 Nburnin = 500  #500 # number of burn-in samples
 Nsamples = 500  #500 # number of final posterior samples
 # v_=['Ve','Vopt','Vout','Ve','Vopt','Vout','Ve_st','Vopt_st','Vout_st']
-# v=v_[-3]
-velocities=['Vout_st','Vout','Vout_normalized','Vout_st','Vout_st_normalized']
+# v=v_[-3]6
+#velocities=['Vout_st','Vout','Vout_normalized','Vout_st','Vout_st_normalized']
+velocities = ['binned_data.csv']
 for v in velocities:
-    y, err_y, x, err_x= np.loadtxt('newer/'+v+".txt", unpack=True)
+   # y, err_y, x, err_x= np.loadtxt('newer/'+v+".txt", unpack=True)
+    name,y,err_y1,err_y2,a,b,c,d,e,f,x,err_x,rchi2,mcmc= np.loadtxt('newer/'+v, unpack=True)
+
     # print(y,x)
     argslist = (y, x, err_y, err_x)
 

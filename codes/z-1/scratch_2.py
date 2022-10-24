@@ -1,6 +1,6 @@
 import emcee
 import numpy as np
-from scipy.odr import Model, RealData, ODR
+#from scipy.odr import Model, RealData, ODR
 import matplotlib as mpl
 from matplotlib import pyplot as plt# import pyplot from matplotlib
 import time               # use for timing functions
@@ -120,7 +120,7 @@ for v in velocities:
             ax.axvline(Med_value[xi], color="r")
             ax.axhline(Med_value[yi], color="r")
             ax.plot(Med_value[xi], Med_value[yi], "sr")
-    figure.savefig('chi_corner_'+v+'.pdf',format='pdf', dpi=300)
+    figure.savefig('chi_corner_'+v+'.png',format='png', dpi=300)
     # figure = corner.corner(samples, levels=(1.-np.exp(-0.5), 1.-np.exp(-2.0)), labels=[r"Slope", r"Intercept", r"Intrinsic Scatter", r"Intrinsic Scatter"], quantiles=[0.16,0.84], show_titles=True, label_kwargs={"fontsize": 12}, title_kwargs={"fontsize": 10}, range=[(a_ML-0.4,a_ML+0.4), (b_ML-0.6,b_ML+0.6), (s_ML-0.1,s_ML+0.1)])
 
     line=[]
